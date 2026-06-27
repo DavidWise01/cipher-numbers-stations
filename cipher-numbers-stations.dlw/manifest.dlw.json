@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-CIPHER_NUMBERS_STATIONS",
+  "name": "NUMBERS STATIONS · NST",
+  "universe": "HERMES",
+  "moniker": "⟦NUMBERS STATIONS · NST:cipher-numbers-stations:ec1165⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "ec116513561be2cdaa7b4d2eb896cc69b045c1215b2a4eb355676d80d542a0f5",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
